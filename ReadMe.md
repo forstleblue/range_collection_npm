@@ -1,5 +1,3 @@
-nr-collection
-
 NPM package to add and remove collection
 
 ```javascript
