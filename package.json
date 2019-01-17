@@ -1,0 +1,17 @@
+{
+  "name": "range_collection",
+  "version": "1.0.0",
+  "description": "This package manages to add and remove collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "range",
+    "collection",
+    "number"
+  ],
+  "author": "Zhefan Li",
+  "license": "ISC",
+  "dependencies": {}
+}
